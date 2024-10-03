@@ -32,7 +32,7 @@ main{
     border-top: 1px solid #ccc;
     border-bottom: 1px solid #ccc;
     border-radius: 5px;
-    
+
 }
 
 footer{
@@ -43,4 +43,11 @@ footer{
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+header{
+    background-color: #db1a1a;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
 }
